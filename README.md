@@ -1,3 +1,4 @@
 # DeepLearning
 
-## NLP (2022.09.06)
+## NLP
+- Embedding (2022.09.06)
